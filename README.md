@@ -50,6 +50,4 @@ Straightliner detection is designed for survey grid questions (q1, q2, q3…).
 No client or confidential data is included in this repository.
 
 *Built by Bhanu Sharma — Market Research & Data Analytics, AI/automation.*
----
 
-*Built by Bhanu Sharma — Market Research & Data Analytics, transitioning into AI/automation.*
